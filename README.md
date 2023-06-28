@@ -1,3 +1,7 @@
+Please find the pages for the application in App.js.
+
+Uncomment them so they can be displayed in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
