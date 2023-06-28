@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app">
       <Header />
-      {/* <HomePage /> */}
+      <HomePage />
 
       {/* <CategoryPage /> */}
 
